@@ -1,2 +1,2 @@
 # ASPX-Ruby-Scraper
-Scrapes information from an ASPX website.
+Uses Mechanize to scrape from a difficult ASPX webpage.
